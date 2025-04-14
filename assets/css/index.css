@@ -1,0 +1,136 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+#menu{
+    border: solid 3px rgb(0, 0, 0);
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-image: url(https://giffiles.alphacoders.com/127/12716.gif);
+    background-position: center;
+}
+#menu a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight:900;
+}
+#menu a:hover{
+    color:  rgb(136, 136, 136);
+    font-size: 40px;
+    transition: 1s;
+}
+.herois{
+    border: solid 3px rgb(0, 0, 0);
+    min-height: 100vh;
+    border-radius: 30px;
+}
+#homemferro{
+    font-size: 30px;
+    background-image: url(https://wallpapers.com/images/hd/fade-4k-background-l0r2nm1yf2ozrup2.jpg);
+    background-size: 100% 100%;
+}
+#homemferro a{
+    display: block;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    width: 190px;
+    border-radius: 50px;
+    text-decoration: none;
+
+}
+#homemferro a:hover{
+    background-color: rgb(122, 122, 122);
+    color: rgb(0, 0, 0);
+    scale: 1.10;
+    font-weight: 300;
+}
+#homemferro img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+}
+#capitaoamerica{
+    font-size: 30px;
+    background-image: url(https://wallpapers.com/images/hd/blue-fade-background-r42zjoese8891hje.jpg);
+}
+#capitaoamerica a{
+    display: block;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 255);
+    width: 190px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+#capitaoamerica a:hover{
+    background-color: rgb(94, 211, 232);
+    color: rgb(255, 255, 255);
+    scale: 1.10;
+    font-weight: 300;
+}
+#capitaoamerica img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+}
+#hulk{
+    font-size: 30px;
+    background-image: url(https://img.freepik.com/fotos-gratis/luzes-de-neon-gradientes-abstratas_23-2149279180.jpg);
+    background-size: 100% 100%;
+}
+#hulk a{
+    display: block;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 93, 22);
+    width: 190px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+#hulk a:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 255, 26);
+    scale: 1.10;
+    font-weight: 300;
+}
+#hulk img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+}
+#thor{
+    font-size: 30px;
+    background-image: url(https://media.istockphoto.com/id/938453686/photo/abstract-red-dreamy-background.jpg?s=612x612&w=0&k=20&c=vmLUO8xKr4B-lzgOqhEkfY_tMjF_XYukeLUXlNPsY6M=);
+    background-size: 100% 100%;
+}
+#thor a{
+    display: block;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    width: 190px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+#thor a:hover{
+    background-color: rgb(122, 122, 122);
+    color: rgb(0, 0, 0);
+    scale: 1.10;
+    font-weight: 300;
+}
+#thor img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+}

@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://images4.alphacoders.com/123/thumb-1920-123336.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(160, 8, 8);
+    margin: 30px
+}
+img{
+    width: 800px;
+    display: block;
+    margin: 20px 1100px;
+}
+img:hover{
+    opacity: 0;
+    transition: 2s;
+}
+hr{
+    background-color: black;
+    color: black;
+    border-color: black;
+}
+a{
+    background-color: rgb(130, 0, 0);
+    color: rgb(130, 130, 130);
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 30px;
+}
+a:hover{
+    font-size: 35px;
+    background-color: rgb(148, 20, 20);
+    color: rgb(255, 255, 255);
+}
+#of a{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 30px; 
+}
